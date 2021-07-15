@@ -66,4 +66,4 @@
 
 -- UPDATE customers SET amount=80000 WHERE name='anam';
 
-DROP FROM customers WHERE name='anam';
+-- DROP FROM customers WHERE name='anam';
