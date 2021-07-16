@@ -55,4 +55,4 @@
 
 -- upper case and lower case 
 
-SELECT UPPER(Agent_FirstName) AS FirstName,LOWER(Agent_LastName) AS LastName FROM students;
+-- SELECT UPPER(Agent_FirstName) AS FirstName,LOWER(Agent_LastName) AS LastName FROM students;
