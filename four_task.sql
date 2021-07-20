@@ -11,5 +11,8 @@
 
 -- using count keyword 
 
-SELECT COUNT(DISTINCT Agent_FirstName,Agent_LastName)
-AS FullName FROM students;
+-- SELECT COUNT(DISTINCT Agent_FirstName,Agent_LastName)
+-- AS FullName FROM students;
+
+-- group by use in sql also count(*) use to show how many group nby behind are
+
