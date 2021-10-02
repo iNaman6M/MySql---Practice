@@ -1,0 +1,1 @@
+Select orders.OrderID , customers.CustomerName, orders.OrderDate from orders inner join customers on orders.CustomerID = customers.CustomerID limit 10;
